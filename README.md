@@ -1,59 +1,16 @@
-# EpicgamesClone
+![Frame 11111](https://github.com/user-attachments/assets/f224ccfd-e5a7-40e0-af3f-03ef24907566)
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.7.
+# Projeto Clone da Epic Games
 
-## Development server
+Este é o repositório do projeto Clone da Epic Games, desenvolvido para aprimorar conhecimento com o Framework Angular.
 
-To start a local development server, run:
+https://github.com/user-attachments/assets/7e3cb546-d159-4fdc-9ac5-c2b5e7f15eaa
 
-```bash
-ng serve
-```
+## 💻 Tecnologias utilizadas no projeto
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+- [Angular.js](https://angularjs.org) 
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-## Code scaffolding
+## 🎨 Protótipo do projeto
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
-
-```bash
-ng generate component component-name
-```
-
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+[Clique aqui](https://www.figma.com/design/mKC5iKErIn0fql3F8m92Z0/Epic%E6%B8%B8%E6%88%8F%E5%95%86%E5%BA%97-%E7%BD%91%E9%A1%B5%E8%AE%BE%E8%AE%A1-Epic-games-store-web-design-(Community)?node-id=0-1&p=f&t=DyHvz5bPjBUMvSZM-0) para ir ao protótipo do projeto no Figma.
