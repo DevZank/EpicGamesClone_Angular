@@ -4,8 +4,6 @@
 
 Este é o repositório do projeto Clone da Epic Games, desenvolvido para aprimorar conhecimento com o Framework Angular.
 
-https://github.com/user-attachments/assets/7e3cb546-d159-4fdc-9ac5-c2b5e7f15eaa
-
 ## 💻 Tecnologias utilizadas no projeto
 
 - [Angular.js](https://angularjs.org) 
